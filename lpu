@@ -186,7 +186,7 @@ int main()
     void dispTime();
     int getNextProcess(int);
     computeSRT(); 
-    printf("\t<-------------------------------Rights reserved to Shubham>\t\n");
+    printf("\t<.......Done by Pranal Rai>\t\n");
                  
 }
 
